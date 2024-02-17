@@ -10,7 +10,7 @@ module.exports = {
     mongodb_username: 'USERNAME',
     mongodb_password: 'PASSWORD',
     mongodb_db: 'DB',
-    NEXTAUTH_URL: 'nextjs-dashboard-teal-pi-75.vercel.app/api/auth',
+    NEXTAUTH_URL: 'https://nextjs-dashboard-teal-pi-75.vercel.app/api/auth',
     NEXTAUTH_SECRET: 'oaLiqG+PIwZXL3zZ9VbEMRM/3NocWo7iT68BICEbMdU=',
   },
 };
